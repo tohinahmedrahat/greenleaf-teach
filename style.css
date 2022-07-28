@@ -1,0 +1,23 @@
+
+@media only screen and (max-width: 576px){
+	.coustom-caption{
+        top: 5%;
+    }
+    .coustom-caption h1 {
+       font-size: 16px;   
+    }
+    .coustom-caption p{
+        font-size: 12px;
+    }
+}
+@media only screen and (min-width: 577px) and (max-width: 768px) {
+	.coustom-caption{
+        top: 30%;
+    }
+    .coustom-caption h1 {
+       font-size: 20px;   
+    }
+    .coustom-caption p{
+        font-size: 14px;
+    }
+}
